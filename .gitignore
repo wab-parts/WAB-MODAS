@@ -1,5 +1,17 @@
-node_modules
-.next
+# Node.js
+node_modules/
 .env
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# MacOS
 .DS_Store
-dist
